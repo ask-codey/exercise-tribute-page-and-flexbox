@@ -55,3 +55,7 @@ Open the folder in VS Code and use the **Live Server** extension: right-click `i
 ## Pictures
 
 Use pictures you're allowed to use: your own photos, or ones whose license allows it (Wikimedia Commons lists the license of each image, and NASA's images are free to use). Give every picture an `alt` text that describes it.
+
+## Hand it in
+
+When it works, push your solution to a public repo of your own on GitHub, then paste that repo's address into **Submit your exercise** on the lesson page at [ask-codey.com](https://www.ask-codey.com). That's what completes the lesson. The lesson page shows the Git commands, step by step.
