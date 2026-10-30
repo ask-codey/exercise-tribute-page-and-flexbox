@@ -1,6 +1,6 @@
-# Practice: Tribute Page and Flexbox
+# Exercise: Tribute Page and Flexbox
 
-Practice files for the lesson **Practice: Tribute Page and Flexbox** in the C# Full-Stack Bootcamp on [ask-codey.com](https://www.ask-codey.com).
+Exercise files for the lesson **Exercise: Tribute Page and Flexbox** in the C# Full-Stack Bootcamp on [ask-codey.com](https://www.ask-codey.com).
 
 You'll build a small website, three pages or more, as a tribute to something you like: a favorite book series, band, team, game or film. Then you'll practice page layout with two free games.
 
