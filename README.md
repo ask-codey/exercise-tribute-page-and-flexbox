@@ -30,10 +30,10 @@ Use semantic HTML: `header`, `nav`, `main`, `section`, `footer`, and the right e
 
 ## Part 2: layout games
 
-Play these two free games, as far as you can get, to practice Flexbox and Grid:
+Play these two games on ask-codey.com, as far as you can get, to practice Flexbox and Grid:
 
-- [Flexbox Froggy](https://flexboxfroggy.com), 24 levels
-- [CSS Grid Garden](https://cssgridgarden.com), 28 levels
+- [Flex Freight](https://www.ask-codey.com/games/flex-freight), 32 puzzles with Flexbox
+- [Grid Town](https://www.ask-codey.com/games/grid-town), 32 puzzles with Grid
 
 Then use Flexbox or Grid on your tribute site: lay out the navigation links in a row, or the quotes in a grid.
 
